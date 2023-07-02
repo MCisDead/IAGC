@@ -1,0 +1,74 @@
+body{
+
+    background-color: rgb(243, 238, 233) !important;
+    padding-top: 60px;
+    height: 1400px;
+}
+span{
+    color: gray;
+}
+.alert {
+    width: 100%;    
+ }
+#warn{
+    color: rgb(44, 42, 42);
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+#chaps{
+    font-size: 25px;
+}
+
+#hellos{
+    font-size: 20px;
+}
+
+video {
+    display: block;
+    margin: auto;
+  }
+
+h1:hover{
+    background-color: white;
+}
+#whathd{
+    text-align: center;
+}
+
+#begin{
+
+    font-size: 30px;
+    font-family: Garamond;
+    margin: 50px;
+    padding: 10px;
+    border-style: double;
+    border-width: 10px;
+    border-color:rgb(218, 104, 11);
+    border-radius: 10px;
+}
+h2{
+    text-decoration: underline;
+}
+a:link {
+    color: rgb(218, 104, 11);
+}
+a:visited{
+    color:rgb(129, 176, 161);
+}
+video{
+    margin-bottom: 30px;
+}
+
+#themm{
+    margin-top: 30px;
+}
+
+#himss{
+    float: left;
+}
+
+#hells{
+    display:inline-block;
+    background-color: rgb(219, 254, 254);
+}
